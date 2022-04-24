@@ -4,6 +4,7 @@ This particular colab notebook is for **Pothole Detection** based on **Faster-RC
 Pothole dataset has two classes i.e. potholes and pothole. It has a total of 665 images.
 
 **Brief about Detectron2**
+
 Detectron2 is a PyTorch based framework built by Facebook AI Research to support rapid
 implementation and evaluation of novel computer vision research.
 
